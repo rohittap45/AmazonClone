@@ -360,3 +360,65 @@ hr{
     margin-top: 12px;
 }
 
+.fpanel3{
+    height: 88px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #232F3E;
+    border-top: 0.5px solid #37465B;
+    gap: 10px;
+    font-weight: 700;
+}
+.fbutton{
+    width: 116px;
+    height: 33px;
+    border: 0.1px solid #cccccc47;
+    border-radius: 3px;
+    background: transparent;
+    color: white;
+}
+
+.fpanel3 button{
+    background: transparent;
+    border: none;
+    color: #cccccc;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.sortup-down{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    color: #37465B;
+}
+
+.fbutton2{
+    width: 150px;
+}
+.fbutton3{
+    width: 130px;
+}
+
+.fpanel4{
+    height: 60px;
+    background-color: #030a12e7;
+    color: #dddddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+}
+.fpanel4 a{
+    text-decoration: none;
+    color: #dddddd;
+    margin-left: 10px;
+}
